@@ -1,0 +1,299 @@
+Country,Dry_Fruit,Year,Predicted_Production
+Afghanistan,Almonds,2025,73888.53
+Afghanistan,Figs,2025,58538.89
+Afghanistan,Pistachios,2025,3146.1072
+Afghanistan,Walnuts,2025,24875.754
+Albania,Chestnuts,2025,6021.4287
+Albania,Dates,2025,15086.546
+Albania,Figs,2025,22719.32
+Algeria,Almonds,2025,73888.53
+Algeria,Dates,2025,1372430.9
+Algeria,Figs,2025,111827.93
+Angola,Cashew nuts,2025,2561.3958
+Argentina,Almonds,2025,2221.605
+Argentina,Figs,2025,2221.605
+Argentina,Walnuts,2025,17980.889
+Armenia,Figs,2025,2438.2007
+Armenia,Hazelnuts,2025,2187.7974
+Armenia,Walnuts,2025,3931.5427
+Australia,Almonds,2025,355933.06
+Australia,Chestnuts,2025,2306.252
+Australia,Figs,2025,2187.7974
+Australia,Hazelnuts,2025,2364.169
+Australia,Pistachios,2025,4197.592
+Australia,Walnuts,2025,12867.076
+Austria,Walnuts,2025,3489.6692
+Azerbaijan,Almonds,2025,4292.4805
+Azerbaijan,Chestnuts,2025,2221.605
+Azerbaijan,Figs,2025,11315.86
+Azerbaijan,Hazelnuts,2025,76444.48
+Azerbaijan,Pistachios,2025,2187.7974
+Azerbaijan,Walnuts,2025,13417.475
+Bahrain,Dates,2025,13693.727
+Belarus,Hazelnuts,2025,2303.1348
+Belarus,Walnuts,2025,17753.775
+Benin,Cashew nuts,2025,221038.83
+Benin,Dates,2025,2364.169
+Bhutan,Hazelnuts,2025,2187.7974
+Bhutan,Walnuts,2025,2187.7974
+Bolivia,Chestnuts,2025,86502.91
+Bolivia,Figs,2025,2187.7974
+Bosnia and Herzegovina,Almonds,2025,2187.7974
+Bosnia and Herzegovina,Chestnuts,2025,2487.9302
+Bosnia and Herzegovina,Figs,2025,3722.9297
+Bosnia and Herzegovina,Walnuts,2025,24144.574
+Brazil,Cashew nuts,2025,161892.86
+Brazil,Figs,2025,22419.338
+Brazil,Walnuts,2025,6162.2188
+Bulgaria,Almonds,2025,2221.605
+Bulgaria,Chestnuts,2025,2187.7974
+Bulgaria,Hazelnuts,2025,2271.3345
+Bulgaria,Walnuts,2025,4551.662
+Burkina Faso,Almonds,2025,2487.9302
+Burkina Faso,Cashew nuts,2025,151167.17
+Burkina Faso,Walnuts,2025,149658.11
+Cameroon,Chestnuts,2025,2187.7974
+Cameroon,Dates,2025,2187.7974
+Cameroon,Figs,2025,2187.7974
+Cameroon,Hazelnuts,2025,2187.7974
+Chad,Dates,2025,22419.338
+Chile,Almonds,2025,46889.87
+Chile,Chestnuts,2025,3722.9297
+Chile,Figs,2025,2187.7974
+Chile,Hazelnuts,2025,69508.86
+Chile,Walnuts,2025,189806.94
+China (mainland),Almonds,2025,43461.293
+China (mainland),Cashew nuts,2025,2776.7388
+China (mainland),Chestnuts,2025,1536336.2
+China (mainland),Dates,2025,164873.66
+China (mainland),Figs,2025,14282.667
+China (mainland),Hazelnuts,2025,24586.273
+China (mainland),Pistachios,2025,78503.984
+China (mainland),Walnuts,2025,1575854.4
+Colombia,Cashew nuts,2025,64252.633
+Colombia,Dates,2025,2187.7974
+Colombia,Figs,2025,2560.602
+Croatia,Almonds,2025,2221.605
+Croatia,Chestnuts,2025,2221.605
+Croatia,Figs,2025,2221.605
+Croatia,Hazelnuts,2025,3189.4565
+Croatia,Walnuts,2025,2271.3345
+Cyprus,Almonds,2025,2271.3345
+Cyprus,Figs,2025,2219.5977
+Cyprus,Hazelnuts,2025,2187.7974
+Cyprus,Walnuts,2025,2221.605
+Czechia,Walnuts,2025,2187.7974
+Côte d'Ivoire,Almonds,2025,2373.1924
+Côte d'Ivoire,Cashew nuts,2025,1006549.56
+Djibouti,Dates,2025,2187.7974
+Dominican Republic,Cashew nuts,2025,2271.3345
+Ecuador,Figs,2025,2187.7974
+Egypt,Dates,2025,1718732.5
+Egypt,Figs,2025,234939.05
+Egypt,Walnuts,2025,22419.338
+El Salvador,Cashew nuts,2025,2413.8984
+Eswatini,Almonds,2025,2253.4053
+Eswatini,Dates,2025,2187.7974
+France,Almonds,2025,2612.717
+France,Chestnuts,2025,9419.4
+France,Figs,2025,7812.617
+France,Hazelnuts,2025,11918.738
+France,Walnuts,2025,31353.21
+Gambia,Cashew nuts,2025,35410.824
+Georgia,Almonds,2025,2253.4053
+Georgia,Hazelnuts,2025,43271.42
+Georgia,Walnuts,2025,7862.3477
+Ghana,Cashew nuts,2025,236375.86
+Greece,Almonds,2025,32599.057
+Greece,Chestnuts,2025,36395.49
+Greece,Figs,2025,8928.976
+Greece,Hazelnuts,2025,4353.099
+Greece,Walnuts,2025,81351.84
+Guinea,Cashew nuts,2025,69476.79
+Guinea-Bissau,Cashew nuts,2025,100478.61
+Honduras,Cashew nuts,2025,2561.3958
+Hungary,Almonds,2025,2221.605
+Hungary,Chestnuts,2025,2221.605
+Hungary,Hazelnuts,2025,2221.605
+Hungary,Walnuts,2025,5299.749
+India,Almonds,2025,11315.86
+India,Cashew nuts,2025,784612.44
+India,Figs,2025,15136.275
+India,Walnuts,2025,309521.78
+Indonesia,Cashew nuts,2025,147898.95
+Iran,Almonds,2025,123012.81
+Iran,Dates,2025,1180086.8
+Iran,Figs,2025,73349.54
+Iran,Hazelnuts,2025,13328.795
+Iran,Pistachios,2025,309389.53
+Iran,Walnuts,2025,376020.2
+Iraq,Almonds,2025,2221.605
+Iraq,Dates,2025,612556.25
+Iraq,Figs,2025,8038.991
+Iraq,Pistachios,2025,2357.5732
+Iraq,Walnuts,2025,2364.169
+Israel,Almonds,2025,9834.78
+Israel,Dates,2025,78398.44
+Israel,Figs,2025,2560.602
+Italy,Almonds,2025,76444.48
+Italy,Chestnuts,2025,67947.76
+Italy,Figs,2025,11873.374
+Italy,Hazelnuts,2025,124350.555
+Italy,Walnuts,2025,16526.44
+Japan,Chestnuts,2025,14374.254
+Japan,Figs,2025,11823.645
+Jordan,Almonds,2025,2635.7666
+Jordan,Dates,2025,33462.316
+Jordan,Figs,2025,2277.5146
+Jordan,Pistachios,2025,2187.7974
+Jordan,Walnuts,2025,2187.7974
+Kazakhstan,Almonds,2025,2187.7974
+Kazakhstan,Walnuts,2025,3112.8071
+Kenya,Cashew nuts,2025,8088.7217
+Kenya,Dates,2025,2253.4053
+Kuwait,Dates,2025,102628.62
+Kyrgyzstan,Almonds,2025,2364.169
+Kyrgyzstan,Hazelnuts,2025,5071.4844
+Kyrgyzstan,Pistachios,2025,2253.4053
+Kyrgyzstan,Walnuts,2025,6276.3135
+Lebanon,Almonds,2025,10504.077
+Lebanon,Figs,2025,3722.9297
+Lebanon,Walnuts,2025,3722.9297
+Libya,Almonds,2025,41663.676
+Libya,Dates,2025,196271.28
+Libya,Figs,2025,10504.077
+Lithuania,Hazelnuts,2025,2221.605
+Lithuania,Walnuts,2025,2221.605
+Luxembourg,Walnuts,2025,2187.7974
+Madagascar,Cashew nuts,2025,7862.3477
+Madagascar,Pistachios,2025,5294.337
+Malawi,Cashew nuts,2025,2187.7974
+Malaysia,Cashew nuts,2025,17753.775
+Mali,Cashew nuts,2025,76444.48
+Mali,Dates,2025,2187.7974
+Mauritania,Dates,2025,22419.338
+Mauritius,Pistachios,2025,2187.7974
+Mexico,Almonds,2025,2187.7974
+Mexico,Cashew nuts,2025,2221.605
+Mexico,Dates,2025,17753.775
+Mexico,Figs,2025,11873.374
+Mexico,Pistachios,2025,2187.7974
+Mexico,Walnuts,2025,177732.28
+Moldova,Almonds,2025,2221.605
+Moldova,Hazelnuts,2025,2221.605
+Moldova,Walnuts,2025,19510.924
+Mongolia,Hazelnuts,2025,2221.605
+Montenegro,Figs,2025,3722.9297
+Montenegro,Walnuts,2025,2221.605
+Morocco,Almonds,2025,167279.39
+Morocco,Dates,2025,110991.61
+Morocco,Figs,2025,110971.13
+Morocco,Pistachios,2025,2187.7974
+Morocco,Walnuts,2025,11315.86
+Mozambique,Cashew nuts,2025,163169.22
+Myanmar,Cashew nuts,2025,2413.8984
+Namibia,Dates,2025,2438.2007
+Nepal,Almonds,2025,2187.7974
+Nepal,Walnuts,2025,12850.422
+New Zealand,Walnuts,2025,2221.605
+Niger,Dates,2025,17753.775
+Nigeria,Cashew nuts,2025,87294.85
+North Korea,Chestnuts,2025,11873.374
+North Macedonia,Almonds,2025,2221.605
+North Macedonia,Chestnuts,2025,2364.169
+North Macedonia,Figs,2025,2219.5977
+North Macedonia,Walnuts,2025,5793.165
+Oman,Dates,2025,368911.78
+Pakistan,Almonds,2025,17753.775
+Pakistan,Dates,2025,645923.3
+Pakistan,Figs,2025,2187.7974
+Pakistan,Pistachios,2025,2221.605
+Pakistan,Walnuts,2025,13500.845
+Peru,Cashew nuts,2025,3144.3035
+Peru,Chestnuts,2025,2187.7974
+Peru,Dates,2025,2187.7974
+Peru,Figs,2025,3096.3777
+Peru,Walnuts,2025,2187.7974
+Philippines,Cashew nuts,2025,135267.73
+Poland,Hazelnuts,2025,10504.077
+Poland,Walnuts,2025,8075.305
+Portugal,Almonds,2025,84419.52
+Portugal,Chestnuts,2025,26785.04
+Portugal,Figs,2025,3640.661
+Portugal,Hazelnuts,2025,2221.605
+Portugal,Walnuts,2025,10524.108
+Qatar,Almonds,2025,2187.7974
+Qatar,Dates,2025,36990.79
+Qatar,Figs,2025,2187.7974
+Romania,Chestnuts,2025,2187.7974
+Romania,Hazelnuts,2025,2980.4001
+Romania,Walnuts,2025,57512.52
+Saudi Arabia,Almonds,2025,4320.062
+Saudi Arabia,Dates,2025,1759194.8
+Saudi Arabia,Figs,2025,32295.715
+Senegal,Cashew nuts,2025,9419.4
+Serbia,Hazelnuts,2025,9884.51
+Serbia,Walnuts,2025,8075.305
+Slovakia,Walnuts,2025,2221.605
+Slovenia,Almonds,2025,2187.7974
+Slovenia,Chestnuts,2025,2187.7974
+Slovenia,Figs,2025,2187.7974
+Slovenia,Hazelnuts,2025,2187.7974
+Slovenia,Walnuts,2025,2221.605
+Somalia,Dates,2025,13693.727
+South Africa,Figs,2025,2364.169
+South Korea,Chestnuts,2025,53327.406
+South Korea,Walnuts,2025,2253.4053
+Spain,Almonds,2025,365783.62
+Spain,Chestnuts,2025,188048.98
+Spain,Figs,2025,51499.805
+Spain,Hazelnuts,2025,5215.7812
+Spain,Walnuts,2025,21471.377
+Sri Lanka,Cashew nuts,2025,17753.775
+Sudan,Dates,2025,461522.34
+Switzerland,Chestnuts,2025,2221.605
+Switzerland,Walnuts,2025,2561.3958
+Syria,Almonds,2025,86313.32
+Syria,Dates,2025,2719.8306
+Syria,Figs,2025,36395.49
+Syria,Pistachios,2025,77295.53
+Syria,Walnuts,2025,13126.674
+Tajikistan,Almonds,2025,3631.57
+Tajikistan,Figs,2025,2253.4053
+Tajikistan,Hazelnuts,2025,2253.4053
+Tanzania,Cashew nuts,2025,453662.56
+Thailand,Cashew nuts,2025,23312.09
+Togo,Cashew nuts,2025,8978.705
+Tunisia,Almonds,2025,79354.85
+Tunisia,Dates,2025,383333.9
+Tunisia,Figs,2025,22419.338
+Tunisia,Hazelnuts,2025,2187.7974
+Tunisia,Pistachios,2025,4308.758
+Turkmenistan,Almonds,2025,2253.4053
+Türkiye,Almonds,2025,198478.47
+Türkiye,Chestnuts,2025,74335.65
+Türkiye,Figs,2025,373125.44
+Türkiye,Hazelnuts,2025,704647.44
+Türkiye,Pistachios,2025,312574.4
+Türkiye,Walnuts,2025,435666.4
+USA,Almonds,2025,1772697.8
+USA,Dates,2025,63283.68
+USA,Figs,2025,26478.23
+USA,Hazelnuts,2025,88555.89
+USA,Pistachios,2025,577959.7
+USA,Walnuts,2025,673325.5
+Ukraine,Chestnuts,2025,2187.7974
+Ukraine,Hazelnuts,2025,2221.605
+Ukraine,Walnuts,2025,105738.0
+United Arab Emirates,Almonds,2025,2187.7974
+United Arab Emirates,Dates,2025,352642.28
+United Arab Emirates,Figs,2025,2187.7974
+Uzbekistan,Almonds,2025,28659.941
+Uzbekistan,Figs,2025,25940.443
+Uzbekistan,Hazelnuts,2025,3772.6582
+Uzbekistan,Pistachios,2025,2271.3345
+Uzbekistan,Walnuts,2025,51311.082
+Viet Nam,Cashew nuts,2025,330876.66
+Yemen,Almonds,2025,13693.727
+Yemen,Dates,2025,66824.69
+Zimbabwe,Chestnuts,2025,2187.7974

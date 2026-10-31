@@ -1,0 +1,2 @@
+Test,Groups,Statistic,p_value,Alpha,Decision
+Kruskal-Wallis,12,2534.1090844555915,0.0,0.05,Reject H0: at least one item distribution differs

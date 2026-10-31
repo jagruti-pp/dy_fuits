@@ -1,0 +1,2 @@
+Model,MAE_tonnes,RMSE_tonnes,R2_on_test
+"OLS statistical model (log target, lagged predictors)",24801.83648643404,110237.5816976668,0.9916235513150107

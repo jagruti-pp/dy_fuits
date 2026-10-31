@@ -1,0 +1,2 @@
+Training_cutoff_year,Test_start_year,Test_end_year,N_training,N_test,R_squared,Adjusted_R_squared,F_statistic,F_p_value,CAGR_total_production
+2020,2021,2024,11050,2223,0.9847481760550846,0.9847288262104784,42769.829769608754,0.0,0.01778260660919795
